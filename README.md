@@ -10,5 +10,4 @@ Altere a cor do background do último bloco para #2c3e50;
 
 ## Demonstração
 
-![Atividade 1 - Google Chrome 2023-02-24 11-17-04](https://user-images.githubusercontent.com/85042179/221202917-58838697-d85e-43bf-9ed2-a83155b23432.gif)
-
+![Atividade 1 - Google Chrome 2023-02-24 11-30-00](https://user-images.githubusercontent.com/85042179/221204429-0fcc660d-7bcb-4661-a921-c918ae8aa815.gif)
